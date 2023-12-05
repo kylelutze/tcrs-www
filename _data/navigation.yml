@@ -1,0 +1,59 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About
+  url: /about/"
+  side: left
+  dropdown:
+  - title: "About TCRS"
+    url: "/about/"
+#    url: "/about/history/"
+  - title: "Team Capabilities"
+    url: "/about/capabilities/"
+  - title: "Leadership and Staff"
+    url: "/about/staff/"
+  - title: "Board of Directors"
+    url: "/about/board-of-directors/"
+- title: "Media Room"
+  url: "/media/photos"
+  side: left
+  dropdown:
+  - title: "Team Photos"
+    url: "/media/photos/"
+  - title: "Team Videos"
+    url: "/media/videos/"
+  - title: "In The News"
+    url: "/media/news/"
+
+- title: "Donate"
+  url: "/donate/"
+  side: left
+
+- title: Get Involved
+  url: "/volunteer/"
+  side: left
+  dropdown:
+  - title: "Volunteer"
+    url: "/volunteer/"
+  - title: "Careers"
+    url: "/careers/"
+  #- title: "Sponsors"
+  #  url: "/sponsors/"
+  #- title: "Other Ways To Give"
+   # url: "/giving/"
+
+- title: News
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "News Archive"
+    url: "/news/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

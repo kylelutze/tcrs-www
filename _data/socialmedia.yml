@@ -1,0 +1,19 @@
+- name: Facebook
+  url: https://www.facebook.com/Transylvania-County-Rescue-Squad-850331351675503/
+  class: icon-facebook
+  title: "Facebook"
+
+#- name: YouTube
+#  url: http://www.youtube.com/PhlowMedia
+#  class: icon-youtube
+#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+
+#- name: Twitter
+#  url: http://twitter.com/phlow
+#  class: icon-twitter
+#  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
